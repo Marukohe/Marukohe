@@ -15,7 +15,7 @@
  - ⚡ Fun fact: ...
  -->
  <a href="#">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Marukohe&show_icons=true&theme=gruvbox">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Marukohe&show_icons=true">
 </a>
 
  - 🔭 I’m currently studying at Nanjing University.
